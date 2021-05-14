@@ -1,5 +1,7 @@
 # dataquest
-A collection of Projects from Dataquest.
+A collection of data analysis projects.
 
-I. Thanksgiving: 
+1. Thanksgiving: 
 Went through Dataquest tutorial and added some analysis including plot of alternative thanksgiving dishes colored by state.
+
+2. German Ebay car sales analysis
